@@ -3,18 +3,17 @@
 </h1>
 
 <h3 align="center">
-  :rocket: Instagram Page Using JS (Bootcamp)
+  :rocket: Instagram Page Using HTML (Bootcamp)
 </h3>
 
 ## :book: About:
 
-<p> A simple project using JS and CSS responsive features to clone the Instagram login page...
+<p> A simple project using HTML and CSS responsive features to clone the Instagram login page...
 </p>
 
  ## :iphone: Tools:
 
  <ul>
-  <li>Javascript</li>
   <li>HTML</li>
   <li>CSS</li>
  </ul>
